@@ -17,7 +17,7 @@
 > ### 💻 Interface:
 > - This is what the DVP main menu looks like.
 
-![alt text](main.png)
+![alt text](preview/main.png)
 
 &nbsp;
 
